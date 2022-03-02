@@ -1,4 +1,6 @@
-# Minecraft!
+---
+Title: Old Folks Minecraft Server
+---
 
 We run a dedicated Minecraft Bedrock server. Talk to obee for connection details.
 

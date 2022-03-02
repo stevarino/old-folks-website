@@ -1,4 +1,6 @@
-# Minecraft Rules
+---
+Title: Old Folks Minecraft Server Rules
+---
 
 More tbd, but here's what I have so far:
 
